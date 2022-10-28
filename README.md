@@ -19,3 +19,15 @@ In this project we will use unsupervised technique - KMeans, to cluster/ group r
 
 9. This will help in clustering and grouping of the data, to identify the main topics and idea from the data.
 
+This project works on data obtained from twitter. It is more complex and noisy when compared with data 
+obtained from review forms of any other surveys.
+
+NLTK: Natural Language Toolkit: It basically provides us with tool to enable the computer to understand natural language. It is a leading platform to build python programs to work with human language data. Human language data is very unstructu- red, that means same things can be said in multiple ways. 
+
+For eg: I hope, you're doing well. 
+        I hope, all is well.
+        I hope, everything is fine with you.
+
+All of the above 3 sentences are saying the same thing, but the words are attached differently when comparing these statements. Hence, for a computer they are different sentences which can mean different things.
+
+So, NLTK helps computer understand human language data and helps with cleaning and re-processing the data to convert it into more structured form. It has text-processing libraries like classification, tokenization, stemming, stopwords removal, & tagging. It is free and open-sourced toolkit. We can directly import NLTK.
